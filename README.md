@@ -45,7 +45,7 @@ LegalLens AI analyzes legal documents and provides:
 
 ## 🌐 Live Demo
 
-👉 [PASTE YOUR LOVABLE LINK HERE]
+👉 https://legallens-ai.lovable.app
 
 ---
 
