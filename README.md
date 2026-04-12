@@ -60,12 +60,13 @@ LegalLens AI analyzes legal documents and provides:
 
 ## 📸 Screenshots
 
-<img width="1919" height="1039" alt="Screenshot 2026-04-10 151332" src="https://github.com/user-attachments/assets/b3335c12-96f1-4c9b-bf3b-ca68c1991be6" />
+<img width="1902" height="1079" alt="Screenshot 2026-04-12 115450" src="https://github.com/user-attachments/assets/9ca97c82-1029-4372-99f9-e97001583afd" />
 
-<img width="1905" height="1079" alt="Screenshot 2026-04-10 151433" src="https://github.com/user-attachments/assets/e7cf7f40-0553-4e4e-a547-6ba35293b6b2" />
+<img width="1901" height="1079" alt="Screenshot 2026-04-12 115500" src="https://github.com/user-attachments/assets/1e83cb61-92c8-4483-a38b-9409b14d9d41" />
 
-<img width="1905" height="1079" alt="Screenshot 2026-04-10 151525" src="https://github.com/user-attachments/assets/fc6c76f3-5d64-42e8-ae72-8def16020669" />
+<img width="1902" height="1079" alt="Screenshot 2026-04-12 115507" src="https://github.com/user-attachments/assets/bc2fc63a-54cc-4f89-9069-4ae9580e1c9e" />
 
+<img width="349" height="487" alt="Screenshot 2026-04-12 120204" src="https://github.com/user-attachments/assets/b55e1f68-9ef6-4c60-8b48-e200cbe418fd" />
 
 ---
 
